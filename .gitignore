@@ -1,0 +1,156 @@
+# Carpetas binarias y archivos
+bin/
+obj/
+
+# Carpetas de dependencias generadas por NuGet
+packages/
+
+# Archivos generados por Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Carpetas generadas por Rider IDE
+.idea/
+
+# Carpeta de caché de ReSharper
+_ReSharper.*
+
+# Archivo de caché de Rider IDE
+.rider
+
+# Carpeta de resultados de prueba
+TestResults/
+
+# Carpeta de salida de aplicaciones
+[Tt]est[Rr]esult*/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+e926ccab-9ab5-44e9-91f6-8403d006f11d/
+
+# Archivos de Visual Studio generados por la extensión ResXManager
+*.resx
+
+# Archivos de respaldo y archivos de excepciones a ignorar
+*~
+*.bak
+*.swp
+
+# Carpetas de configuración de usuario de Visual Studio
+.vscode/
+.vs/
+_resharper/
+.vs2019/
+.vs2017/
+
+# Carpeta de salida de Rider IDE
+.idea/
+
+# Carpeta de respaldo
+backup*/
+-backup*/
+
+# Archivos de configuración
+*.suo
+*.user
+*.sln.docstates
+
+# Carpeta de almacenamiento local de herramientas .NET Core
+.project.json
+
+# Archivos de caché y logs
+logs/
+*_i.c/
+*_p.c/
+*.dbmdl
+*.dbproj.schemaview
+
+# Ficheros de auto-generación
+[Oo]bj/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+[Dd]ebugPublic/
+
+# Visual Studio 2015 y versiones posteriores
+.vs2015/
+.vs15.json
+
+# Rider IDE
+.idea/
+*.suo
+*.user
+*.sln.docstates
+_ReSharper.*/
+*TNT*/
+*tnt*/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code folders
+.vscode/
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Visual Studio 2019
+.vs2019/
+
+# Rider
+.idea/
+*.suo
+*.user
+*.sln.docstates
+_ReSharper*/
+[Tt]humbs.db
+.Folder
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+.idea/
+
+
